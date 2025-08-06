@@ -1,0 +1,7 @@
+# platform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# meta
+.DS_Store
