@@ -133,3 +133,7 @@ input[type="submit"]:hover {
 		gap: 1rem;
 	}
 }
+
+#checkmark {
+	vertical-align: middle;
+}
